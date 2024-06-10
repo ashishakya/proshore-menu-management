@@ -1,5 +1,5 @@
 {
-    "name": "proshore/menu-management",
+    "name": "ashishakya/proshore-menu-management",
     "description": "A database based menu managment system for laravel backend",
     "license": "MIT",
     "keywords": ["laravel", "menu", "management", "backend"],
@@ -18,7 +18,7 @@
     "prefer-stable": true,
     "require": {
         "spatie/eloquent-sortable": "^3.4",
-        "illuminate/support": "5.5.*"
+        "illuminate/support": "5.6.*"
     },
     "extra": {
         "laravel": {
